@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./engineering.png" width="100%" alt="Closure - Rhodes Island">
+<img src="https://i.pinimg.com/736x/f6/bd/0c/f6bd0cf30fac98fc9bb5e35776242a11.jpg" width="100%" alt="Closure - Rhodes Island">
 
 <br>
 
